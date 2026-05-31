@@ -8,3 +8,4 @@ This repository is being developed documentation-first. The first milestone is t
 
 - [Architecture documentation](docs/architecture/README.md)
 - [Requirements interview](docs/architecture/requirements-interview.md)
+- [Curriculum architecture](docs/curriculum/curriculum-architecture.md)
