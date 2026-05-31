@@ -7,6 +7,7 @@ The project should remain documentation-first until the architecture is explicit
 ## Current documents
 
 - [Requirements Interview](requirements-interview.md): known product direction, open architectural decision areas, and questions to answer before implementation.
+- [Curriculum Architecture](../curriculum/curriculum-architecture.md): learning objectives, progression, exercises, mastery criteria, and remediation design for the functional music curriculum.
 
 ## Planned documents
 
